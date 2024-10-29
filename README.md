@@ -1,2 +1,6 @@
 # ChessGamePygame
-ChessGame using Pygame in Python
+
+**UML Diagram**
+![alt text](class-diagram.jpeg)
+
+
